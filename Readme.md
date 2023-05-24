@@ -28,9 +28,9 @@ python main.py
 
 # 使用截图/ScreenShot
 
-![](/home/aimol/文档/Python/Graduation/code/images/dect.png)
+![](./images/dect.png)
 
-![](/home/aimol/文档/Python/Graduation/code/images/test2.png)
+![](./images/test2.png)
 
 ## License
 
