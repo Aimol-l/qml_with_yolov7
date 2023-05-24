@@ -1,0 +1,7 @@
+weight_path: yolov7-tiny.pt
+threshold: 0.5
+device: 0
+track_thresh: 0.65
+track_buffer: 50
+match_thresh: 0.9
+imgSize: 640
